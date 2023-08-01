@@ -1,0 +1,14 @@
+cosmpy
+dnspython
+kivymd
+kivyoav
+mapview
+pexpect
+psutil
+pydash
+qrcode
+save_thread_result
+screeninfo
+sentinel-protobuf
+treelib
+unidecode
